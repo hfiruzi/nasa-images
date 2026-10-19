@@ -9,8 +9,8 @@ import AjaxLoading from '~components/AjaxLoading';
 import ErrorBoundary from '~components/ErrorBoundary';
 import ToastContainer from '~components/toast/ToastContainer';
 import { StackedSection, StackedLayout } from '~components/layout/StackedLayout';
-import { Footer } from '~components/widgets/footer';
-import { Header, HeaderSection } from '~components/widgets/header';
+import { Footer } from '~components/widgets/Footer';
+import { Header, HeaderSection } from '~components/widgets/Header';
 import { Logo } from '~components/widgets/Logo';
 import { SearchBar } from '~components/SearchBar';
 
